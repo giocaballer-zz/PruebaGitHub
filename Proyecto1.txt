@@ -2,7 +2,9 @@ Hola a todos
 
 Nombre 
 Apellido
-Cel
+Celular
 Direccion
 
-Experiencia
+Experiencia laboral
+Estudios
+Referencias
