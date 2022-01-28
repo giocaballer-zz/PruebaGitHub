@@ -1,0 +1,8 @@
+Hola a todos
+
+Nombre 
+Apellido
+Cel
+Direccion
+
+Experiencia
