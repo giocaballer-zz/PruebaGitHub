@@ -4,7 +4,7 @@ Nombre
 Apellido
 Celular
 Direccion
-
+Correo
 Experiencia laboral
 Estudios
 Referencias
