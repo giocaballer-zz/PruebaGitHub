@@ -1,8 +1,10 @@
 Hola a todos
-
+Fecha
 Nombre 
 Apellido
-Cel
+Celular
 Direccion
-
-Experiencia
+Correo
+Experiencia laboral
+Estudios
+Referencias
